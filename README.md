@@ -3,7 +3,7 @@
 # iPager
 
 **Real-time, two-way iMessage relay for the WiFi Pineapple Pager**
-*A pager should get messages and let you respond. So I built it.*
+
 
 </div>
 
